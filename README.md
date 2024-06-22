@@ -3,7 +3,7 @@
 I am a student in New Zealand currently pursuing a Bachelor of Science majoring in Software Engineering and Data Science at the university of Otago. Here you can check out some of my projects, experiments and challenges.
 
 ## Projects
-> Source code provided in all **Public Repo**, please navigate to README files in these repositories for more information.
+> Source code provided in all **Public Repo**, more information regarding the project and app usage is available in specific project README files.
 > > To download JAR files, click the **JAR file** link and then click <code>view raw</code>.
 
 ### ANDIE
